@@ -9,7 +9,7 @@ examples:
 
 java -cp "C:\Users\jeff\XML\saxon-he-10.2.jar" net.sf.saxon.Query !indent=yes -q:"C:\Users\jeff\XML\gjc_query1.xq" –o:"C:\Users\jeff\XML\gjc_results1.xml"
 
-java -cp "C:\Users\jeff\XML\saxon-he-10.2.jar" net.sf.saxon.Query !indent=yes state=OR -q:"C:\Users\je66b\Google Drive\School\Fall 2020\XML\week 9\gjc_query7.xq" –o:"C:\Users\jeff\XML\gjc_results7.xml"
+java -cp "C:\Users\jeff\XML\saxon-he-10.2.jar" net.sf.saxon.Query !indent=yes state=OR -q:"C:\Users\jeff\XML\gjc_query7.xq" –o:"C:\Users\jeff\XML\gjc_results7.xml"
 
 
 
